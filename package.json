@@ -1,0 +1,17 @@
+{
+  "name": "registrationform-main",
+  "version": "1.0.0",
+  "description": "This is a simple registration form which is used to collect user information  Here I used ejs template and bootstrap for styling the page and nodejs for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
